@@ -1,2 +1,3 @@
-# PRODIGY_WD_03
-This is a stopwatch web app build with the help of HTML, CSS and JavaScript.
+This web app is a user-friendly stopwatch application created with HTML, CSS, and JavaScript. It allows users to easily start, stop, and reset the stopwatch, along with the ability to record lap times.
+The intuitive interface makes it simple for users to track time efficiently. To get started, follow the installation instructions to run the app locally. You can also check out a live demo [link to your demo if available]. 
+We welcome contributions and bug reports,  so feel free to get in touch or submit issues on GitHub. Please refer to the license for terms of use. Thank you for using our stopwatch web app, and we hope it serves you well.
